@@ -5,7 +5,10 @@
 *.wav
 *.jpeg
 *.esf3d
+WinterBreak/audio
+WB music cues/
 
 # QLab
 *.qlab5backup
 Icon*
+
